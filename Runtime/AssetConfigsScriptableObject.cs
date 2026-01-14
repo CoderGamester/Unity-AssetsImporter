@@ -1,4 +1,4 @@
-using GameLovers.ConfigsProvider;
+using GameLovers.GameData;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
