@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System;
+using GameLovers.GameData;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.ResourceManagement.ResourceProviders;
